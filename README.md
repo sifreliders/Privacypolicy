@@ -1,7 +1,11 @@
 **Privacy Policy – Pomodoro GO**
+
 Last updated: November 2025
+
 Developer: Metin Meriç
+
 Contact Email: sifreliders@gmail.com
+
 
 **1. Overview**
 
