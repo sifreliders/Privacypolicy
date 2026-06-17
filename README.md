@@ -2,7 +2,7 @@
 
 Last updated: November 2025
 
-Developer: Şifreli Ders
+Developer: Playforge Games
 
 Contact Email: sifreliders@gmail.com
 
